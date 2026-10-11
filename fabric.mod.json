@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "id": "systemdlcrecovered",
+  "id": "milanclient",
   "version": "1.0.0",
-  "name": "SystemDLC Recovered",
+  "name": "Milan Client",
   "environment": "client",
   "entrypoints": {
     "preLaunch": [
